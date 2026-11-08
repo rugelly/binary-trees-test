@@ -1,0 +1,8 @@
+/.vscode
+/build
+/src/build
+/src/sgtree.cpp
+/src/binarytree_1.cpp
+/include/binarytree_1.h
+/include/sgtree.h
+*.odt
